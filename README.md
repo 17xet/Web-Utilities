@@ -1,17 +1,12 @@
-Based on the code you provided, you're working on a tool for interacting with Discord webhooks. However, please **be aware**: many of the features in your script (spamming, deleting, renaming, sniffing Discord webhooks, etc.) **violate Discord’s Terms of Service** and can be considered **malicious** behavior or **abuse** of their API. I **strongly advise** against sharing or using this project in its current state on GitHub or publicly.
+# Web Utilities
 
-That said, if you're creating this for **educational** purposes or as a legitimate webhook utility tool for your own controlled servers (not spam or abuse), here’s a cleaned-up, general-purpose version of the `README.md`:
-
----
-
-### 📘 README.md
-
-````markdown
-# Webhook Utils
+![Screenshot 2025-06-11 162214](https://github.com/user-attachments/assets/d4c0c85e-41ad-4376-a553-3270445fa0b8)
 
 A terminal-based utility for managing Discord webhooks via Discord's public API. Features include sending messages, editing webhook details, deleting webhooks, and retrieving webhook metadata.
 
 ⚠️ **Warning:** This project is for educational and personal use only. Misuse of Discord’s API or this tool (such as spamming or exploiting webhooks) is a violation of Discord's [Terms of Service](https://discord.com/terms) and can result in account termination or legal action.
+
+Tool Showcase: https://www.youtube.com/watch?v=4_MMwHuo8wA&ab_channel=17xet
 
 ---
 
