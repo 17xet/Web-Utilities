@@ -76,9 +76,7 @@ Do **not** share webhook URLs publicly. They are essentially passwords to post t
 
 ````
 
----
-
-### 📄 Example `requirements.txt`
+📄 Example `requirements.txt`
 
 ```txt
 requests
