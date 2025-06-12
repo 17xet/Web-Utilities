@@ -1,0 +1,26 @@
+{
+    "main" : {
+        "message" : "Wsg LiL bro",
+        "embed" : "y",
+        "embed-data"  : {
+            "title" : "Get Fucked",
+            "desc" : "Lmao",
+            "field-name" : "mb bestie",
+            "content" : "```stfu```    "
+        },
+        "threading" : "y",
+        "thread-count" : "5"
+    },
+    "Scammer" : {
+        "message" : "@everyone",
+        "embed" : "y",
+        "embed-data"  : {
+            "title" : "GoodDay",
+            "desc" : "I have found your webhook in your scam have a nice day <3",
+            "field-name" : "How are you",
+            "content" : "```stfu```    "
+        },
+        "threading" : "y",
+        "thread-count" : "5"
+    }
+}
